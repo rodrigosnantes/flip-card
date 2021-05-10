@@ -1,4 +1,4 @@
-# Modern layout page
+# Flip card css
 
 ### `npm install`
 ### `npm start`
@@ -12,5 +12,5 @@
     Preview
    <br/>
    
-   <img src="https://github.com/rodrigosnantes/dashboard-sidebar-model-01/blob/main/sidebar-gif.gif" width="400" />
+   <img src="https://github.com/rodrigosnantes/flip-card/blob/main/flip-card.gif" width="400" />
 </h1>
