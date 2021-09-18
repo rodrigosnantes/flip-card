@@ -3,11 +3,6 @@
 ### `npm install`
 ### `npm start`
 
-## Tecnologias envolvidas
-
-<p>React</p>
-<p>CSS</p>
-
 <h1 align="center">
     Preview
    <br/>
